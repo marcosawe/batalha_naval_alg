@@ -1,0 +1,5 @@
+## JOGO BATALHA NAVAL VISUALG  👨🏻‍✈️ 
+![img](./img/Captura%20de%20tela%202022-06-29%20113357.png)
+![img](./img/Captura%20de%20tela%202022-06-29%20113455.png)
+
+Criada originalmente no início do `Século XX` por soldados russos, o jogo se popularizou durante a `Primeira Guerra Mundial`. Na versão original, dois adversários desenhavam, em folhas de papel, navios posicionados em um mar imaginário quadriculado, seu principal objetivo era encontrar os ponto ideais para afundar os respectivos navios dos seu inimigo.Sua primeira versão lançada para tabuleiro foi criada em 1967. O jogo em questão serve como aplicação de aprendizados adquiridos no primeiro período do curso de `Sistemas de Informação` e também como atividade lúdica e criativa para a cativação de pessoas que estejam interessadas em ingressar no mundo da `TI`.
